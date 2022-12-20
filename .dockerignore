@@ -1,0 +1,6 @@
+*.csv
+*.parquet
+*.ipynb
+__pycache__
+.git
+output_ss/
